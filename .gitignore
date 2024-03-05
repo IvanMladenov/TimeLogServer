@@ -1,0 +1,25 @@
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vs/
+bin/
+obj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.dll
+*.pdb
+*.zip
+*.rar
+*.nupkg
+*.ncrunch*
+*.log
+*.vspscc
+*.vssscc
